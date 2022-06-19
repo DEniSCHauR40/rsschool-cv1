@@ -1,4 +1,4 @@
-![Fish](https://www.shutterstock.com/image-photo/rotten-dried-fish-isolated-on-white-1591679377)
+<img src="./1CDAF065-5414-4B1C-A1F5-DCBE5113A819.png" height="450">
 # Chaur Denis
 * phone: +37544456396
 
