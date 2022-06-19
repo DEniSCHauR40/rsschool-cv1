@@ -1,4 +1,4 @@
-![Alt-текст](Путь к файлу "Подпись")
+![Fish](https://www.shutterstock.com/image-photo/rotten-dried-fish-isolated-on-white-1591679377)
 # Chaur Denis
 * phone: +37544456396
 
